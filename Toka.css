@@ -4,3 +4,10 @@ body{
 nav{
     background-color: #091227;
 }
+.sec{
+    padding: 3rem 4rem;
+    gap: 3rem;
+}
+.on-hover:hover{
+    border: 1px solid green;
+}
